@@ -10,7 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxt/image": "^1.1.0",
+    "@nuxt/image-edge": "1.1.0-28404773.c60aac2",
+    "@nuxtjs/supabase": "^1.1.5",
+    "@nuxtjs/tailwindcss": "^6.10.3",
     "nuxt": "^3.9.0",
+    "supabase": "^1.127.4",
     "vue": "^3.4.5",
     "vue-router": "^4.2.5"
   }
